@@ -5,11 +5,19 @@ Hi all, and thanks for making your way to my portfolio! My name is Chris Goodwin
 ## What Will You Find Here?
 
 I compiled not only some of my favorite projects I've worked on during my time in school, but also some that show a wide variety of skills. Please link the links below to find each individual project!
+
 1) NFL QB Analysis
+
 2) College Basketball Win Predictions
+
 3) Airline Safety Analysis
+
 4) LSTM Text Generator
+
 5) ConvNet model classifiers
+
 6) Movie Rating Analysis
+
 7) Hotel Recommendation Model
+
 8) SQLite Example using PetsDB
