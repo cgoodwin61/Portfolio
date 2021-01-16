@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## My Portfolio
 
-You can use the [editor on GitHub](https://github.com/cgoodwin61/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi all, and thanks for making your way to my portfolio! My name is Chris Goodwin, currently wrapping up my coursework in the Data Science Masters Program at Bellevue Univeristy. Over the last couple of years, I have really harnessed my craft as a data scientist: data scraping and manipulating, analyzing, modeling, coding, data visualization are just some of the topics that we have really focused on. I hope you will see in this portfolio that I am ready to start my professional data science career!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What Will You Find Here?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cgoodwin61/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I compiled not only some of my favorite projects I've worked on during my time in school, but also some that show a wide variety of skills. Please link the links below to find each individual project!
+1) NFL QB Analysis
+2) College Basketball Win Predictions
+3) Airline Safety Analysis
+4) LSTM Text Generator
+5) ConvNet model classifiers
+6) Movie Rating Analysis
+7) Hotel Recommendation Model
+8) SQLite Example using PetsDB
