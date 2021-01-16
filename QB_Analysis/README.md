@@ -4,6 +4,6 @@ For fans of American football, it is well known that the quarterback (QB for sho
 
 Our research will look at game logs for NFL quarterbacks and determine if we can fit a model that can accurately predict whether or not his team won. This analysis will allow us to gain access into how the game of football is currently being played, and may even help coaches gain focus in particular aspects of the passing game.
 
-The code can be found in the .ipynb file included in this folder. The data is in the .csv format.
+The code can be found in the .ipynb file included in this folder. The data is in the .csv format. The final paper can be found in the form of a .pdf. And finally, you can click the link to view my [presentation here](https://www.youtube.com/watch?v=Nr65mkHd2d0).
 
 Go Bills!
