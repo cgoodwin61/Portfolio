@@ -1,0 +1,7 @@
+## College Basketball Analysis
+
+College basketball is one of the most popular sports in the United States, often producing more revenue than its professional hockey and soccer counterparts. In our study, we sampled big data from the NCAA to answer the question, “Can we predict how many wins a school will have in a given season?” We used 24 different data points about the team (numerical values like offensive and defensive efficiency, wins in the previous year(s), etc.) to build a model that accurately predicts how well the team will do in future seasons. 
+
+To narrow our variables down we determined the top 9 variables that had the best relationship to our data when predicting future win totals. We then broke the data into subsets such as unranked vs ranked teams and by specific season from 2015 through 2019. Levering four regression modeling techniques, K-Nearest Neighbor (KNN), Naive Bayes, Random Forest, and Ridge Regression and adding boosting ensemble techniques, we were able to predict with 90% accuracy within 2 games of a team’s win total. 
+
+In an effort to increase the model’s accuracy we feel adding additional historical team data to years prior to 2015 would further increase the accuracy of our model. We would like to leverage this model for the upcoming 2021 college basketball season to put it to the test and see if it truly can predict the number of wins a team will have for a college basketball season.
