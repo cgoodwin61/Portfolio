@@ -13,12 +13,12 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
 </p>
 
 ### Education
-<img src="ub.jpg" width="70"> **University at Buffalo**: August 2010 - May 2014 
+<img src="ub2.jpg" width="70"> **University at Buffalo**: August 2010 - May 2014 
   - Bachelor of Science in Mathematics
   - Minor in Statistics
   - Cumulative GPA of 3.64
   
-<img src="bellevue.jpg" width="70"> **Bellevue University**: August 2019 - Present 
+<img src="bellevue2.jpg" width="70"> **Bellevue University**: August 2019 - Present 
   - Masters of Science in Data Science
   - Cumulative GPA of 4.00
 
