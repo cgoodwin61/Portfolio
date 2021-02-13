@@ -13,19 +13,18 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
 </p>
 
 ### Education
-
-- **University at Buffalo**: August 2010 - May 2014 <img src="ub.jpg" width="50">
+<img src="ub.jpg" width="70"> **University at Buffalo**: August 2010 - May 2014 
   - Bachelor of Science in Mathematics
   - Minor in Statistics
   - Cumulative GPA of 3.64
   
-- **Bellevue University**: August 2019 - Present <img src="bellevue.jpg" width="50">
+<img src="bellevue.jpg" width="70"> **Bellevue University**: August 2019 - Present 
   - Masters of Science in Data Science
   - Cumulative GPA of 4.00
 
 ### Professional Experience
 
-- *Randomization Coordinator* at **Frontier Science**, May 2015 - August 2019
+- *Randomization Coordinator* at **Frontier Science**, May 2015 - August 2019 <img src="frontier.png" width="70">
   - Worked with data managers, pharmacists, and statisticians to develop and maintain clinical trial protocols. 
   - Configured the Subject Enrollment System for the trials and monitored data daily. 
   - Corrected and queried data in vast relational databases. 
@@ -33,7 +32,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
   - Created and maintained Standard Operating Procedures and Work Instructions for the department.  
   - Aided in the development, testing, and installation of a new Enrollment System.     
 
-- *SDTM Specialist* at **Frontier Science**, August 2019 - Present
+- *SDTM Specialist* at **Frontier Science**, August 2019 - Present <img src="frontier.png" width="70">
   - Assist with the development of data collection instruments that comply with Clinical Data Acquisition Standards Harmonization (CDASH) standards.
   - Work on related projects in support of Clinical Data Interchange Standards Consortium (CDISC) implementation standards.  
   - Coordinate the annotating, modeling and mapping of the Study Data Tabulation Model (SDTM) for assigned studies and maintain these mappings throughout the life of the study, including QA/QC, traceability and validation of the data flow to SDTM. 
