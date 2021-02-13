@@ -24,7 +24,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
 
 ### Professional Experience
 
-- *Randomization Coordinator* at **Frontier Science**, May 2015 - August 2019 <img src="frontier.png" width="70">
+<img src="frontier2.png" width="70"> *Randomization Coordinator* at **Frontier Science**, May 2015 - August 2019 
   - Worked with data managers, pharmacists, and statisticians to develop and maintain clinical trial protocols. 
   - Configured the Subject Enrollment System for the trials and monitored data daily. 
   - Corrected and queried data in vast relational databases. 
@@ -32,7 +32,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
   - Created and maintained Standard Operating Procedures and Work Instructions for the department.  
   - Aided in the development, testing, and installation of a new Enrollment System.     
 
-- *SDTM Specialist* at **Frontier Science**, August 2019 - Present <img src="frontier.png" width="70">
+<img src="frontier2.png" width="70"> *SDTM Specialist* at **Frontier Science**, August 2019 - Present 
   - Assist with the development of data collection instruments that comply with Clinical Data Acquisition Standards Harmonization (CDASH) standards.
   - Work on related projects in support of Clinical Data Interchange Standards Consortium (CDISC) implementation standards.  
   - Coordinate the annotating, modeling and mapping of the Study Data Tabulation Model (SDTM) for assigned studies and maintain these mappings throughout the life of the study, including QA/QC, traceability and validation of the data flow to SDTM. 
