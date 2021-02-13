@@ -13,18 +13,18 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
 </p>
 
 ### Education
-<img src="ub2.jpg" width="70"> **University at Buffalo**: August 2010 - May 2014 
+<img src="ub2.png" width="80"> **University at Buffalo**: August 2010 - May 2014 
   - Bachelor of Science in Mathematics
   - Minor in Statistics
   - Cumulative GPA of 3.64
   
-<img src="bellevue2.jpg" width="70"> **Bellevue University**: August 2019 - Present 
+<img src="bellevue2.png" width="80"> **Bellevue University**: August 2019 - Present 
   - Masters of Science in Data Science
   - Cumulative GPA of 4.00
 
 ### Professional Experience
 
-<img src="frontier2.png" width="70"> *Randomization Coordinator* at **Frontier Science**, May 2015 - August 2019 
+<img src="frontier2.png" width="80"> *Randomization Coordinator* at **Frontier Science**, May 2015 - August 2019 
   - Worked with data managers, pharmacists, and statisticians to develop and maintain clinical trial protocols. 
   - Configured the Subject Enrollment System for the trials and monitored data daily. 
   - Corrected and queried data in vast relational databases. 
@@ -32,7 +32,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
   - Created and maintained Standard Operating Procedures and Work Instructions for the department.  
   - Aided in the development, testing, and installation of a new Enrollment System.     
 
-<img src="frontier2.png" width="70"> *SDTM Specialist* at **Frontier Science**, August 2019 - Present 
+<img src="frontier2.png" width="80"> *SDTM Specialist* at **Frontier Science**, August 2019 - Present 
   - Assist with the development of data collection instruments that comply with Clinical Data Acquisition Standards Harmonization (CDASH) standards.
   - Work on related projects in support of Clinical Data Interchange Standards Consortium (CDISC) implementation standards.  
   - Coordinate the annotating, modeling and mapping of the Study Data Tabulation Model (SDTM) for assigned studies and maintain these mappings throughout the life of the study, including QA/QC, traceability and validation of the data flow to SDTM. 
