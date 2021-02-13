@@ -12,6 +12,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
 <img src="riley.jpg" alt="Riley enjoying the Bills playoff run" class = "center" width="300">
 </p>
 
+
 ### Education
 <img src="ub2.png" width="80"> **University at Buffalo**: August 2010 - May 2014 
   - Bachelor of Science in Mathematics
@@ -21,6 +22,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
 <img src="bellevue2.png" width="80"> **Bellevue University**: August 2019 - Present 
   - Masters of Science in Data Science
   - Cumulative GPA of 4.00
+  
 
 ### Professional Experience
 
@@ -37,6 +39,16 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
   - Work on related projects in support of Clinical Data Interchange Standards Consortium (CDISC) implementation standards.  
   - Coordinate the annotating, modeling and mapping of the Study Data Tabulation Model (SDTM) for assigned studies and maintain these mappings throughout the life of the study, including QA/QC, traceability and validation of the data flow to SDTM. 
   - Define additional processing requirements for the final SDTM, working closely with computer programmers and statisticians as they develop Analysis Data Model (ADaM) datasets.
+  
+  
+### Skillset
+- Python programming
+- Microsoft Excel
+- SQL and relational databases
+- Machine Learning Algorithms
+- Data Modeling
+
+
 
 Thanks again for taking the time to look at my portfolio, and if you have any questions head over to the contact page and I'll be sure to get back to you!
 
