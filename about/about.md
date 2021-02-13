@@ -14,7 +14,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
 
 ### Education
 
-- **University at Buffalo**: August 2010 - May 2014
+- **University at Buffalo**: August 2010 - May 2014 <img src="ub.jpg" width="50">
   - Bachelor of Science in Mathematics
   - Minor in Statistics
   - Cumulative GPA of 3.64
@@ -33,7 +33,11 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
   - Created and maintained Standard Operating Procedures and Work Instructions for the department.  
   - Aided in the development, testing, and installation of a new Enrollment System.     
 
-- *SDTM Specialist* at **Frontier Science**, August 2019 - 
+- *SDTM Specialist* at **Frontier Science**, August 2019 - Present
+  - Assist with the development of data collection instruments that comply with Clinical Data Acquisition Standards Harmonization (CDASH) standards.
+  - Work on related projects in support of Clinical Data Interchange Standards Consortium (CDISC) implementation standards.  
+  - Coordinate the annotating, modeling and mapping of the Study Data Tabulation Model (SDTM) for assigned studies and maintain these mappings throughout the life of the study, including QA/QC, traceability and validation of the data flow to SDTM. 
+  - Define additional processing requirements for the final SDTM, working closely with computer programmers and statisticians as they develop Analysis Data Model (ADaM) datasets.
 
 Thanks again for taking the time to look at my portfolio, and if you have any questions head over to the contact page and I'll be sure to get back to you!
 
