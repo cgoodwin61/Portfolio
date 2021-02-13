@@ -19,7 +19,7 @@ I currently live in Buffalo, NY with my fiancee Courtney and our dog Riley! If w
   - Minor in Statistics
   - Cumulative GPA of 3.64
   
-- **Bellevue University**: August 2019 - Present
+- **Bellevue University**: August 2019 - Present <img src="bellevue.jpg" width="50">
   - Masters of Science in Data Science
   - Cumulative GPA of 4.00
 
