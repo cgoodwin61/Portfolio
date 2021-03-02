@@ -20,4 +20,4 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 
 9) [Spotify Popularity Analysis](https://github.com/cgoodwin61/Portfolio/tree/main/Spotify_Analysis)
 
-10) [Chest X-Ray Classification]((https://github.com/cgoodwin61/Portfolio/tree/main/Chest_XRays)
+10) [Chest X-Ray Classification](https://github.com/cgoodwin61/Portfolio/tree/main/Chest_XRays)
