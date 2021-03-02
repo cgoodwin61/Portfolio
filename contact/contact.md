@@ -2,7 +2,7 @@
 
 Feel free to reach out, I am happy to answer any questions! 
 
-Click on the following images to contact me via e-mail, cell phone, or LinkedIn.
+Click on the following images to contact me via *e-mail*, *cell phone*, or *LinkedIn*.
 <p float="left">
 <a href="mailto:goodwin8@buffalo.edu">
          <img alt="Email link" src="contact4.png"
