@@ -1,5 +1,7 @@
 ## Contact Me
 
+Feel free to reach out to me with any questions! 
+
 **E-Mail** : [goodwin8@buffalo.edu](mailto:goodwin8@buffalo.edu)
 
 **Phone Number**: 716-289-0869
