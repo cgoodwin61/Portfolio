@@ -14,7 +14,7 @@ Feel free to reach out! I am happy to answer any questions!
       </a>
 </p>
 <p align="right">
-<a href="www.linkedin.com/in/chris-goodwin-b9778889">
+<a href="https://www.linkedin.com/in/chris-goodwin-b9778889">
          <img alt="LinkedIn Profile" src="contact2.png"
          width="200" height="200">
       </a>
