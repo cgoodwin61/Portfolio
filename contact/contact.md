@@ -2,8 +2,8 @@
 
 Feel free to reach out to me with any questions! 
 
-<img src="gmail.png" width="50"> **E-Mail** : [goodwin8@buffalo.edu](mailto:goodwin8@buffalo.edu)
+<img src="gmail.png" width="50">     **E-Mail** : [goodwin8@buffalo.edu](mailto:goodwin8@buffalo.edu)
 
-<img src="phone2.jpg" width="40"> **Phone Number**: 716-289-0869
+<img src="phone2.jpg" width="40">    **Phone Number**: 716-289-0869
 
-<img src="linkedin.png" width="40"> **LinkedIn**: [Chris Goodwin](www.linkedin.com/in/chris-goodwin-b9778889)
+<img src="linkedin.png" width="40">  **LinkedIn**: [Chris Goodwin](www.linkedin.com/in/chris-goodwin-b9778889)
