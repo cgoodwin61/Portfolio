@@ -16,8 +16,14 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 - In this project, we attempted to create a model that could predict how many wins a given college basketball team would have in a season, but on certain characteristics (offensive efficiency, rebounding, conference, etc). 
 
 ### Project #3: [**ConvNet Classifiers**](https://github.com/cgoodwin61/Portfolio/tree/main/ConvNet_Classifiers)
+<p align="center">
+<img src="convnet.jpg" alt="ConvNet" width="400">
+</p>
 
 ### Project #4: [**Hotel Recommendation Model**](https://github.com/cgoodwin61/Portfolio/tree/main/Hotel_Recommendation_Model)
+<p align="center">
+<img src="hotel.png" alt="Hotel ratings" width="400">
+</p>
 
 ### Project #5: [**LSTM Text Generator**](https://github.com/cgoodwin61/Portfolio/tree/main/LSTM_Text_Generator)
 <p align="center">
@@ -39,6 +45,9 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 
 ### Project #8: [**SQLite Examples**](https://github.com/cgoodwin61/Portfolio/tree/main/SQLite_Example)
 - This project highlights my skills in running queries, both in SQL in general and specifically within the SQLite package. 
+<p align="center">
+<img src="sql.png" alt="SQL" width="400">
+</p>
 
 ### Project #9: [**Spotify Popularity Analysis**](https://github.com/cgoodwin61/Portfolio/tree/main/Spotify_Analysis)
 <p align="center">
