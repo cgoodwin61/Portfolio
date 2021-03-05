@@ -2,7 +2,12 @@
 
 As I stated on the home screen, I chose these projects to show I am not one-dimensional. I can perform a many number of tasks with the data science realm. Below are a list of projects, with a brief description and a link to the Github repository:
 
-1) [**Airline Safety Analysis**](https://github.com/cgoodwin61/Portfolio/tree/main/Airline_Safety_Analysis)
+
+### Project #1 [**Airline Safety Analysis**](https://github.com/cgoodwin61/Portfolio/tree/main/Airline_Safety_Analysis)
+<p align="center">
+<img src="airline.jpg" alt="Airline" width="400">
+</p>
+
 - In this project, we really focused in on utilizing data visualization tools to tell a story. The ultimate goal was to prove airline travel was safe, and I believe we did just that. 
 
 2) [**College Basketball Analysis**](https://github.com/cgoodwin61/Portfolio/tree/main/College_Basketball_Analysis)
