@@ -27,11 +27,11 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 </p>
 - In this project we build a model to predict which hotels given users would be prone to book. 
 
-### Project #5: [**LSTM Text Generator**](https://github.com/cgoodwin61/Portfolio/tree/main/LSTM_Text_Generator)
+### Project #5: [**Coding with R**](https://github.com/cgoodwin61/Portfolio/tree/main/R_Skills)
 <p align="center">
-<img src="lstm.png" alt="LSTM" width="400">
+<img src="r.jpg" alt="LSTM" width="400">
 </p>
-- In this project, we attempted to create an LSTM Text Generator that would read text from the Bible and attempt to create a passage of its own. 
+- In this project, I simply showcase a wide array of tools in the R coding language. We analyze COVID-19 data throughout. 
 
 ### Project #6: [**Movie Rating Analysis**](https://github.com/cgoodwin61/Portfolio/tree/main/Movie_Rating_Analysis)
 <p align="center">
