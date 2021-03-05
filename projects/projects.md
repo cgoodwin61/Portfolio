@@ -15,10 +15,11 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 </p>
 - In this project, we attempted to create a model that could predict how many wins a given college basketball team would have in a season, but on certain characteristics (offensive efficiency, rebounding, conference, etc). 
 
-### Project #3: [**ConvNet Classifiers**](https://github.com/cgoodwin61/Portfolio/tree/main/ConvNet_Classifiers)
+### Project #3: [**Baseball Game Promotions**](https://github.com/cgoodwin61/Portfolio/tree/main/Dodger_Games)
 <p align="center">
-<img src="convnet.jpeg" alt="ConvNet" width="400">
+<img src="baseball.jpg" alt="Baseball promotions" width="400">
 </p>
+- In this project, we analyze LA Dodger game promotions, and determine if there are specific days our times of the year they should run these promotions to maximize their attendance. This showcases skills in both Python and R. 
 
 ### Project #4: [**Hotel Recommendation Model**](https://github.com/cgoodwin61/Portfolio/tree/main/Hotel_Recommendation_Model)
 <p align="center">
@@ -44,10 +45,10 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 - In this project, I attempted to use QB Game Logs to predict whether or not his team won the game. This showcased my skills using classification algorithms in Python.
 
 ### Project #8: [**SQLite Examples**](https://github.com/cgoodwin61/Portfolio/tree/main/SQLite_Example)
-- This project highlights my skills in running queries, both in SQL in general and specifically within the SQLite package. 
 <p align="center">
 <img src="sql.png" alt="SQL" width="400">
 </p>
+- This project highlights my skills in running queries, both in SQL in general and specifically within the SQLite package. 
 
 ### Project #9: [**Spotify Popularity Analysis**](https://github.com/cgoodwin61/Portfolio/tree/main/Spotify_Analysis)
 <p align="center">
