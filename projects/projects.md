@@ -17,7 +17,7 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 
 ### Project #3: [**ConvNet Classifiers**](https://github.com/cgoodwin61/Portfolio/tree/main/ConvNet_Classifiers)
 <p align="center">
-<img src="convnet.jpg" alt="ConvNet" width="400">
+<img src="convnet.jpeg" alt="ConvNet" width="400">
 </p>
 
 ### Project #4: [**Hotel Recommendation Model**](https://github.com/cgoodwin61/Portfolio/tree/main/Hotel_Recommendation_Model)
