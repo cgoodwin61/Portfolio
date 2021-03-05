@@ -25,6 +25,7 @@ As I stated on the home screen, I chose these projects to show I am not one-dime
 <p align="center">
 <img src="hotel.png" alt="Hotel ratings" width="400">
 </p>
+- In this project we build a model to predict which hotels given users would be prone to book. 
 
 ### Project #5: [**LSTM Text Generator**](https://github.com/cgoodwin61/Portfolio/tree/main/LSTM_Text_Generator)
 <p align="center">
