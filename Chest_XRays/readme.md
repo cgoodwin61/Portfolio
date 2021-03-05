@@ -1,1 +1,5 @@
+### Chest X-Ray Classification
 
+Machine learning in the field of healthcare is an increasingly popular phenomenon. The most common healthcare use cases for machine learning are automating medical billing, clinical decision support and the development of clinical care guidelines. In this project, we will be turning our attention to the field of radiology, focusing specifically on medical imaging. Radiologists go to work every day, read these x-ray images, and make diagnoses for their patients. In a nutshell, we are hoping to build a computer model than can perform the same task. Can our model view an image like a radiologist, and from that picture diagnose a healthy set of lungs or a set of lungs with pneumonia? 
+
+In the .ipynb found here, we attempt to do just that. We use a dataset found on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), compiled of roughly 6,000 chest x-ray images. Using a keras, we attempt to build a sequential model that can be used to diagnose pneumonia in these patients. Please review the code and let us know how we did. You can also view a brief presentation on [Youtube](https://youtu.be/GlpwwAfRXmo).
