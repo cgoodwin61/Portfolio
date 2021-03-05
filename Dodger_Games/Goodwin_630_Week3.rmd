@@ -1,0 +1,64 @@
+---
+title: "DSC630 - Week 3"
+author: "Chris Goodwin"
+date: "June 19, 2020"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
+---
+## Introduction
+
+For this assignment, we will be looking at data about Dodgers games. This is a csv file, so we will use read.csv()
+
+```{r}
+library(ggplot2)
+file_path <- "C:/Users/goodw/Downloads/dodgers.csv"
+data <- read.csv(file_path)
+head(data)
+```
+Now that we have our data, we can see that there are four different promotions: cap giveaway, shirt giveaway, fireworks, and bobblehead giveaway. I wanted to combine these into one variable called promo, so the following code will populate promo with 'YES' if there were any promotions, and 'NO' if there were not.
+```{r}
+data$promo <- ifelse(data$cap == 'YES','YES',ifelse(data$shirt == 'YES', 'YES', ifelse(data$fireworks == 'YES', 'YES', ifelse(data$bobblehead == 'YES','YES','NO'))))
+head(data)
+```
+Let us start by looking at a couple box plots. The first will look at attendance by month:
+```{r}
+ggplot(data, aes(x = month, y = attend)) + geom_boxplot()
+```
+From this, we can see that June is the most "successful" month, having the highest average attendance. I would probably say May is the least successful, seeing how the average is so low. Perhaps with more promotions we could bump up Attendance in May?
+
+Let us evaluate another boxplot, this time looking at day of the week as opposed to month.
+```{r}
+ggplot(data, aes(x = day_of_week, y = attend)) + geom_boxplot()
+```
+From this, we can see that somewhat surprisingly, Tuesdays have the highest attendance. Mondays and Wednesdays could use some help though.
+
+Now the goal of this project is to determine when it is best to run a promotion. From the first two plots, it seems that there are certain months and days of the week that could use a boost. Let us look at box plots, but color coded based on whether or not there was a promotion. First we will look at a plot by month:
+```{r}
+ggplot(data, aes(x = month, y = attend, color = promo)) + geom_boxplot()
+```
+For almost every month, we see an increase in attendance when there is a promotion at the game. Let us look at day of the week. 
+
+```{r}
+ggplot(data, aes(x = day_of_week, y = attend, color = promo)) + geom_boxplot()
+```
+
+Once again we see a jump most days of the week when there is a promotion. This graph, interestingly enough, shows a real lack of promotions on Mondays and Wednesdays of the week. 
+
+To get an even clearer picture of our data, it may be benefical to look at some scatter plots. Let us take a look at a scatter plot of attendance by month, colored by the promotion. 
+```{r}
+library(ggplot2)
+ggplot(data, aes(x = month, y = attend)) + geom_point(aes(color=promo, position = 'jitter'))
+```
+
+When we plot the attendance, we can see that for most months, the promos lead to a higher attendance. In every month at the beginning of the season (April through August), the promos had high attendance. In September and OCtober, the promos did not really lead to an uptick.
+
+Let us look at this data again, but plot attendance by day of the week instead.
+```{r}
+ggplot(data, aes(x = day_of_week, y = attend)) + geom_point(aes(color=promo, position = 'jitter'))
+```
+Once again we can see that promotions tend to lead to higher attendance for that day of the week. We can also see from this graph that there really were not many promotions on certain days of the week. Wednesday for example had a number of games, but only one promo (which was the highest attended Wednesday game of the season). Same goes for Mondays. This follows suit with our boxplots earlier, these are the weakest days of the week, and they could benefit from some more promotions.
+
+
